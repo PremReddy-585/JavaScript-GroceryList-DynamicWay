@@ -1,0 +1,22 @@
+.background {
+    background-color: #03254c;
+    height: 100vh;
+    padding: 10px;
+}
+
+.heading {
+    color: #ffffff;
+    font-size: 40px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 13px;
+    text-align: center;
+
+}
+
+.grocery-container {
+    background-color: #f5f9fd;
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
